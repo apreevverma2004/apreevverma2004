@@ -1,8 +1,3 @@
-<div align="center">
-
-![Banner](https://raw.githubusercontent.com/apreevverma2004/apreevverma2004/main/github_banner.png)
-
-</div>
 
 ---
 
