@@ -1,25 +1,6 @@
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background:#111418;">
-<tr>
-<td width="180" valign="bottom" style="padding:20px 0 0 30px;">
-<img src="https://raw.githubusercontent.com/apreevverma2004/apreevverma2004/main/profile.jpeg" 
-     alt="Abhishek Verma" 
-     width="150" 
-     height="180"
-     style="object-fit:cover; border:2px solid #222; display:block;"/>
-</td>
-<td valign="middle" style="padding:20px 40px 20px 60px; text-align:right;">
-<pre style="font-family:Georgia,serif; color:#e8e8e8; font-size:22px; letter-spacing:6px; background:none; border:none;">ABHISHEK
-VERMA</pre>
-<div style="border:1px solid #888; display:inline-block; padding:3px 12px; margin-top:6px;">
-<span style="font-size:10px; letter-spacing:3px; color:#aaa;">COMPUTER SCIENCE ENGINEER</span>
-</div>
-<br/>
-<span style="font-size:10px; letter-spacing:2px; color:#aaa;">APREEVVERMA2004@GMAIL.COM</span>
-</td>
-</tr>
-</table>
+![Banner](https://raw.githubusercontent.com/apreevverma2004/apreevverma2004/main/github_banner.png)
 
 </div>
 
@@ -37,7 +18,7 @@ VERMA</pre>
 
 ---
 
-<table border="0">
+<table border="0" cellpadding="10">
 <tr>
 <td valign="top" width="55%">
 
@@ -62,7 +43,7 @@ VERMA</pre>
 <td valign="top" width="45%">
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" width="300"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" width="300" style="border-radius:8px;"/>
 </div>
 
 </td>
