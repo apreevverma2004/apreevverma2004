@@ -1,202 +1,246 @@
 <!-- ═══════════════════════════════════════════════════════════════════
-     ABHISHEK VERMA — GitHub Profile README
-     Professional & Corporate | Animated & Modern
+     ABHISHEK VERMA — GitHub Profile README  v2.0
+     Professional · Animated · Modern
      ═══════════════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED HEADER BANNER -->
+<!-- ╔══════════════════════════════════════════╗
+     ║           ANIMATED HEADER               ║
+     ╚══════════════════════════════════════════╝ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Abhishek%20Verma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=20&descColor=a8d8f0&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,30:0d2137,70:0e3d5f,100:1a6091&height=220&section=header&text=Abhishek%20Verma&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=⚡%20Software%20Developer%20⚡&descAlignY=62&descSize=22&descColor=64b5f6&animation=twinkling&stroke=1a6091&strokeWidth=2" width="100%"/>
 </div>
 
-<!-- PROFILE VIEWS + FOLLOWERS BADGES -->
+<!-- ╔══════════════════════════════════════════╗
+     ║          LIVE BADGE ROW                 ║
+     ╚══════════════════════════════════════════╝ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekverma&style=for-the-badge&color=0e4d8a&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/abhishekverma">
+    <img src="https://komarev.com/ghpvc/?username=abhishekverma&style=for-the-badge&color=1565c0&labelColor=0d1b2a&label=👁️+PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/abhishekverma?style=for-the-badge&color=0e4d8a&labelColor=0a2e52&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/abhishekverma?style=for-the-badge&color=1565c0&labelColor=0d1b2a&label=🤝+FOLLOWERS" alt="Followers"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00c853?style=for-the-badge&labelColor=0d1b2a" alt="Open to Work"/>
 </div>
 
 <br/>
 
-<!-- TYPING ANIMATION -->
+<!-- ╔══════════════════════════════════════════╗
+     ║          TYPING ANIMATION               ║
+     ╚══════════════════════════════════════════╝ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E90CF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Abhishek+Verma;💻+Software+Developer;🚀+Building+Scalable+Solutions;🔧+Clean+Code+Advocate;📐+Architecture+%26+Design+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&multiline=false&width=650&height=50&lines=👋+Hello+World%2C+I'm+Abhishek+Verma!;💻+Crafting+Elegant+Software+Solutions;🚀+Turning+Ideas+Into+Reality;🏗️+System+Design+%26+Architecture+Lover;🔥+Building+Scalable+%26+Robust+Systems" alt="Typing Animation"/>
 </div>
 
 <br/>
 
----
+<!-- ╔══════════════════════════════════════════╗
+     ║         ANIMATED DIVIDER                ║
+     ╚══════════════════════════════════════════╝ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ABOUT ME -->
-## 🧑‍💼 About Me
+<!-- ╔══════════════════════════════════════════╗
+     ║             ABOUT ME                    ║
+     ╚══════════════════════════════════════════╝ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-```yaml
-name        : Abhishek Verma
-role        : Software Developer
-location    : India 🇮🇳
-focus       : Building robust, scalable & maintainable software
-currently   : Open to exciting opportunities
-philosophy  : "First, solve the problem. Then, write the code."
+<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+```typescript
+const abhishek = {
+  name     : "Abhishek Verma",
+  role     : "Software Developer",
+  location : "India 🇮🇳",
+  email    : "abhishek@gmail.com",
+  focus    : ["Clean Code", "System Design", "Scalability"],
+  motto    : "First solve the problem, then write the code.",
+  status   : "Open to exciting opportunities 🚀",
+};
 ```
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<br/>
 
-- 🔭 I'm currently working on **scalable backend systems & full-stack applications**
-- 🌱 Always learning and exploring new technologies
-- 💡 Passionate about **clean architecture**, **system design**, and **best practices**
-- 🤝 Open to collaboration on innovative projects
-- ⚡ Fun fact: I debug more efficiently with coffee ☕
+🔭 &nbsp;Currently building **scalable full-stack applications**  
+🌱 &nbsp;Exploring **System Design**, **Cloud Architecture** & **DSA**  
+💡 &nbsp;Passionate about writing **clean, maintainable & efficient code**  
+🏆 &nbsp;Love solving challenging problems on **LeetCode**  
+🤝 &nbsp;Always open to **collaborations** and **new opportunities**  
+⚡ &nbsp;Fun fact: My best code comes after a strong **coffee** ☕
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- TECH STACK -->
-## 🛠️ Tech Stack & Tools
+<!-- ╔══════════════════════════════════════════╗
+     ║           TECH STACK                    ║
+     ╚══════════════════════════════════════════╝ -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack & Tools
 
 <div align="center">
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### ◈ Languages
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp&theme=dark" /></a>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+### ◈ Frontend
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" /></a>
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ◈ Backend
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi&theme=dark" /></a>
+
+### ◈ Databases
+
+<a href="#"><img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" /></a>
+
+### ◈ DevOps & Cloud
+
+<a href="#"><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,linux&theme=dark" /></a>
+
+### ◈ Tools & Platforms
+
+<a href="#"><img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,jira&theme=dark" /></a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Statistics
+<!-- ╔══════════════════════════════════════════╗
+     ║          GITHUB STATS                   ║
+     ╚══════════════════════════════════════════╝ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekverma&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=2e90cf&icon_color=2e90cf&text_color=c9d1d9&ring_color=2e90cf" height="180" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekverma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e90cf&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekverma&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&ring_color=1565c0&border_radius=10" height="185" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekverma&layout=compact&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&langs_count=8&border_radius=10" height="185" alt="Top Languages"/>
 </div>
 
 <br/>
 
-<!-- GITHUB STREAK -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekverma&theme=tokyonight&hide_border=true&background=0D1117&ring=2E90CF&fire=FF6B35&currStreakLabel=2E90CF&sideLabels=C9D1D9&dates=8B949E&stroke=2E90CF" width="70%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekverma&hide_border=true&background=0D1117&ring=1565C0&fire=FF6B35&currStreakLabel=64B5F6&sideLabels=C9D1D9&dates=8B949E&stroke=1565C0&border_radius=10" width="68%" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekverma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekverma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ACTIVITY GRAPH -->
+<!-- ╔══════════════════════════════════════════╗
+     ║        CONTRIBUTION GRAPH               ║
+     ╚══════════════════════════════════════════╝ -->
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekverma&bg_color=0d1117&color=2e90cf&line=2e90cf&point=ffffff&area=true&area_color=1a4a7a&hide_border=true" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekverma&bg_color=0d1117&color=64b5f6&line=1565c0&point=64b5f6&area=true&area_color=0d3a6e&hide_border=true&border_radius=10&custom_title=Abhishek's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- SNAKE ANIMATION -->
-## 🐍 My Contributions
+<!-- ╔══════════════════════════════════════════╗
+     ║         SNAKE ANIMATION                 ║
+     ╚══════════════════════════════════════════╝ -->
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekverma/abhishekverma/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekverma/abhishekverma/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/abhishekverma/abhishekverma/output/github-contribution-grid-snake.svg" width="100%"/>
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/abhishekverma/abhishekverma/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </div>
 
-> ⚙️ **To enable the snake animation**, add a GitHub Actions workflow — ask me for the YAML file!
+> ⚙️ **Enable Snake**: Add a GitHub Actions workflow to auto-generate this — ask me for the YAML!
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- FEATURED PROJECTS -->
+<!-- ╔══════════════════════════════════════════╗
+     ║        FEATURED PROJECTS                ║
+     ╚══════════════════════════════════════════╝ -->
 ## 🚀 Featured Projects
 
 <div align="center">
   <a href="https://github.com/abhishekverma/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekverma&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e90cf&text_color=c9d1d9&icon_color=2e90cf" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekverma&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&icon_color=64b5f6&border_radius=10"/>
   </a>
   &nbsp;
   <a href="https://github.com/abhishekverma/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekverma&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2e90cf&text_color=c9d1d9&icon_color=2e90cf" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekverma&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&icon_color=64b5f6&border_radius=10"/>
   </a>
 </div>
 
-> 📌 **Replace** `project-one` and `project-two` with your actual repository names.
+> 📌 Replace `project-one` / `project-two` with your real repository names.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- CONNECT -->
-## 🤝 Let's Connect
+<!-- ╔══════════════════════════════════════════╗
+     ║           CONNECT SECTION               ║
+     ╚══════════════════════════════════════════╝ -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekverma)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishek@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0e4d8a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhishekverma.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhishekverma)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhishekverma)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhishekverma)
+  <a href="https://www.linkedin.com/in/abhishek-verma-a52606291/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abhishek@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-abhishek%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ea4335" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Abhishek7268968311/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Abhishek-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=ffa116" alt="LeetCode"/>
+  </a>
+  &nbsp;
+  <a href="https://abhishekverma.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1565c0?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d47a1" alt="Portfolio"/>
+  </a>
 
-</div>
-
----
-
-<!-- QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Dev Quote"/>
 </div>
 
 <br/>
 
-<!-- FOOTER WAVE -->
+<!-- PROFILE METRICS SUMMARY -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:1a6091&height=2&section=header" width="80%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| 💼 | Open to Work | ✉️ | Reach out anytime |
+|:---:|:---:|:---:|:---:|
+| 🌍 | Based in India | 🕐 | Quick responder |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- ╔══════════════════════════════════════════╗
+     ║           DEV QUOTE                     ║
+     ╚══════════════════════════════════════════╝ -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="72%" alt="Dev Quote"/>
+</div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════╗
+     ║           FOOTER WAVE                   ║
+     ╚══════════════════════════════════════════╝ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6091,50:0d2137,100:0a0e27&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=64b5f6&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
-  <sub>⭐ <i>If you find my work helpful, consider giving a star to my repositories!</i> ⭐</sub>
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  &nbsp;
+  <img src="https://forthebadge.com/images/badges/open-source.svg"/>
 </div>
