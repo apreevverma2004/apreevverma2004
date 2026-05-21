@@ -7,7 +7,7 @@
      ║           ANIMATED HEADER               ║
      ╚══════════════════════════════════════════╝ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0e27,30:0d2137,70:0e3d5f,100:1a6091&height=220&section=header&text=Abhishek%20Verma&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=⚡%20Software%20Developer%20⚡&descAlignY=62&descSize=22&descColor=64b5f6&animation=twinkling&stroke=1a6091&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0a1f,30:1a0a2e,70:3d0f5f,100:6a1b9a&height=220&section=header&text=Abhishek%20Verma&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=⚡%20Software%20Developer%20⚡&descAlignY=62&descSize=22&descColor=ce93d8&animation=twinkling&stroke=6a1b9a&strokeWidth=2" width="100%"/>
 </div>
 
 <!-- ╔══════════════════════════════════════════╗
@@ -15,10 +15,10 @@
      ╚══════════════════════════════════════════╝ -->
 <div align="center">
   <a href="https://github.com/abhishekverma">
-    <img src="https://komarev.com/ghpvc/?username=abhishekverma&style=for-the-badge&color=1565c0&labelColor=0d1b2a&label=👁️+PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=abhishekverma&style=for-the-badge&color=7b1fa2&labelColor=0d1b2a&label=👁️+PROFILE+VIEWS" alt="Profile Views"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/abhishekverma?style=for-the-badge&color=1565c0&labelColor=0d1b2a&label=🤝+FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/abhishekverma?style=for-the-badge&color=7b1fa2&labelColor=0d1b2a&label=🤝+FOLLOWERS" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00c853?style=for-the-badge&labelColor=0d1b2a" alt="Open to Work"/>
 </div>
@@ -29,7 +29,7 @@
      ║          TYPING ANIMATION               ║
      ╚══════════════════════════════════════════╝ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=64B5F6&center=true&vCenter=true&multiline=false&width=650&height=50&lines=👋+Hello+World%2C+I'm+Abhishek+Verma!;💻+Crafting+Elegant+Software+Solutions;🚀+Turning+Ideas+Into+Reality;🏗️+System+Design+%26+Architecture+Lover;🔥+Building+Scalable+%26+Robust+Systems" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=CE93D8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=👋+Hello+World%2C+I'm+Abhishek+Verma!;💻+Crafting+Elegant+Software+Solutions;🚀+Turning+Ideas+Into+Reality;🏗️+System+Design+%26+Architecture+Lover;🔥+Building+Scalable+%26+Robust+Systems" alt="Typing Animation"/>
 </div>
 
 <br/>
@@ -112,15 +112,15 @@ const abhishek = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekverma&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=64b5f6&icon_color=64b5f6&text_color=c9d1d9&ring_color=1565c0&border_radius=10" height="185" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekverma&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ce93d8&icon_color=ce93d8&text_color=c9d1d9&ring_color=7b1fa2&border_radius=10" height="185" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekverma&layout=compact&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&langs_count=8&border_radius=10" height="185" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekverma&layout=compact&hide_border=true&bg_color=0d1117&title_color=ce93d8&text_color=c9d1d9&langs_count=8&border_radius=10" height="185" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekverma&hide_border=true&background=0D1117&ring=1565C0&fire=FF6B35&currStreakLabel=64B5F6&sideLabels=C9D1D9&dates=8B949E&stroke=1565C0&border_radius=10" width="68%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekverma&hide_border=true&background=0D1117&ring=7B1FA2&fire=FF6B35&currStreakLabel=CE93D8&sideLabels=C9D1D9&dates=8B949E&stroke=7B1FA2&border_radius=10" width="68%" alt="GitHub Streak"/>
 </div>
 
 <br/>
@@ -138,7 +138,7 @@ const abhishek = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekverma&bg_color=0d1117&color=64b5f6&line=1565c0&point=64b5f6&area=true&area_color=0d3a6e&hide_border=true&border_radius=10&custom_title=Abhishek's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekverma&bg_color=0d1117&color=ce93d8&line=7b1fa2&point=ce93d8&area=true&area_color=3d0a5f&hide_border=true&border_radius=10&custom_title=Abhishek's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -167,11 +167,11 @@ const abhishek = {
 
 <div align="center">
   <a href="https://github.com/abhishekverma/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekverma&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&icon_color=64b5f6&border_radius=10"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekverma&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ce93d8&text_color=c9d1d9&icon_color=ce93d8&border_radius=10"/>
   </a>
   &nbsp;
   <a href="https://github.com/abhishekverma/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekverma&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64b5f6&text_color=c9d1d9&icon_color=64b5f6&border_radius=10"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekverma&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ce93d8&text_color=c9d1d9&icon_color=ce93d8&border_radius=10"/>
   </a>
 </div>
 
@@ -187,7 +187,7 @@ const abhishek = {
 <div align="center">
 
   <a href="https://www.linkedin.com/in/abhishek-verma-a52606291/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a66c2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=7b1fa2" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="mailto:abhishek@gmail.com">
@@ -199,7 +199,7 @@ const abhishek = {
   </a>
   &nbsp;
   <a href="https://abhishekverma.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-1565c0?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d47a1" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7b1fa2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4a148c" alt="Portfolio"/>
   </a>
 
 </div>
@@ -208,7 +208,7 @@ const abhishek = {
 
 <!-- PROFILE METRICS SUMMARY -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:1a6091&height=2&section=header" width="80%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0a1f,100:6a1b9a&height=2&section=header" width="80%"/>
 </div>
 
 <br/>
@@ -236,7 +236,7 @@ const abhishek = {
      ║           FOOTER WAVE                   ║
      ╚══════════════════════════════════════════╝ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6091,50:0d2137,100:0a0e27&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=64b5f6&fontAlignY=65&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a1b9a,50:1a0a2e,100:0d0a1f&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ce93d8&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
