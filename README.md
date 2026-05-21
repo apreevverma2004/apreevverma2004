@@ -1,4 +1,3 @@
-<img width="723" height="1578" alt="Avi pic" src="https://github.com/user-attachments/assets/0fd7ac03-c7ad-4e86-acf3-31dd981eb5d7" />
 <div align="center">
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="background:#111418;">
