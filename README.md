@@ -14,11 +14,11 @@
      ║          LIVE BADGE ROW                 ║
      ╚══════════════════════════════════════════╝ -->
 <div align="center">
-  <a href="https://github.com/abhishekverma">
-    <img src="https://komarev.com/ghpvc/?username=abhishekverma&style=for-the-badge&color=7b1fa2&labelColor=0d1b2a&label=👁️+PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://github.com/apreevverma2004">
+    <img src="https://komarev.com/ghpvc/?username=apreevverma2004&style=for-the-badge&color=7b1fa2&labelColor=0d1b2a&label=👁️+PROFILE+VIEWS" alt="Profile Views"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/abhishekverma?style=for-the-badge&color=7b1fa2&labelColor=0d1b2a&label=🤝+FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/apreevverma2004?style=for-the-badge&color=7b1fa2&labelColor=0d1b2a&label=🤝+FOLLOWERS" alt="Followers"/>
   &nbsp;
   <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-00c853?style=for-the-badge&labelColor=0d1b2a" alt="Open to Work"/>
 </div>
@@ -29,7 +29,7 @@
      ║          TYPING ANIMATION               ║
      ╚══════════════════════════════════════════╝ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=CE93D8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=👋+Hello+World%2C+I'm+Abhishek+Verma!;💻+Crafting+Elegant+Software+Solutions;🚀+Turning+Ideas+Into+Reality;🏗️+System+Design+%26+Architecture+Lover;🔥+Building+Scalable+%26+Robust+Systems" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=CE93D8&center=true&vCenter=true&width=650&height=50&lines=Hello+World%2C+I'm+Abhishek+Verma!;Software+Developer;Crafting+Elegant+Solutions;System+Design+%26+Architecture+Lover;Building+Scalable+%26+Robust+Systems" alt="Typing Animation"/>
 </div>
 
 <br/>
@@ -112,22 +112,22 @@ const abhishek = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekverma&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ce93d8&icon_color=ce93d8&text_color=c9d1d9&ring_color=7b1fa2&border_radius=10" height="185" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=apreevverma2004&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ce93d8&icon_color=ce93d8&text_color=c9d1d9&ring_color=7b1fa2&border_radius=10" height="185" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekverma&layout=compact&hide_border=true&bg_color=0d1117&title_color=ce93d8&text_color=c9d1d9&langs_count=8&border_radius=10" height="185" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apreevverma2004&layout=compact&hide_border=true&bg_color=0d1117&title_color=ce93d8&text_color=c9d1d9&langs_count=8&border_radius=10" height="185" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekverma&hide_border=true&background=0D1117&ring=7B1FA2&fire=FF6B35&currStreakLabel=CE93D8&sideLabels=C9D1D9&dates=8B949E&stroke=7B1FA2&border_radius=10" width="68%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=apreevverma2004&hide_border=true&background=0D1117&ring=7B1FA2&fire=FF6B35&currStreakLabel=CE93D8&sideLabels=C9D1D9&dates=8B949E&stroke=7B1FA2&border_radius=10" width="68%" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <!-- TROPHIES -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishekverma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=apreevverma2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -138,7 +138,7 @@ const abhishek = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekverma&bg_color=0d1117&color=ce93d8&line=7b1fa2&point=ce93d8&area=true&area_color=3d0a5f&hide_border=true&border_radius=10&custom_title=Abhishek's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apreevverma2004&bg_color=0d1117&color=ce93d8&line=7b1fa2&point=ce93d8&area=true&area_color=3d0a5f&hide_border=true&border_radius=10&custom_title=Abhishek's%20Contribution%20Graph" width="100%" alt="Activity Graph"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -150,9 +150,9 @@ const abhishek = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekverma/abhishekverma/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhishekverma/abhishekverma/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/abhishekverma/abhishekverma/output/github-contribution-grid-snake.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apreevverma2004/apreevverma2004/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apreevverma2004/apreevverma2004/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/apreevverma2004/apreevverma2004/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
 </div>
 
@@ -166,12 +166,12 @@ const abhishek = {
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/abhishekverma/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekverma&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ce93d8&text_color=c9d1d9&icon_color=ce93d8&border_radius=10"/>
+  <a href="https://github.com/apreevverma2004/project-one">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=apreevverma2004&repo=project-one&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ce93d8&text_color=c9d1d9&icon_color=ce93d8&border_radius=10"/>
   </a>
   &nbsp;
-  <a href="https://github.com/abhishekverma/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishekverma&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ce93d8&text_color=c9d1d9&icon_color=ce93d8&border_radius=10"/>
+  <a href="https://github.com/apreevverma2004/project-two">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=apreevverma2004&repo=project-two&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ce93d8&text_color=c9d1d9&icon_color=ce93d8&border_radius=10"/>
   </a>
 </div>
 
