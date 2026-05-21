@@ -51,7 +51,7 @@ const abhishek = {
   name     : "Abhishek Verma",
   role     : "Software Developer",
   location : "India 🇮🇳",
-  email    : "abhishek@gmail.com",
+  email    : "apreevverma2004@gmail.com",
   focus    : ["Clean Code", "System Design", "Scalability"],
   motto    : "First solve the problem, then write the code.",
   status   : "Open to exciting opportunities 🚀",
